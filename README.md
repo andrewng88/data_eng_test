@@ -2,6 +2,7 @@
 
 ### Step 1
 ```git clone https://github.com/andrewng88/data_eng_test.git```
+
 ```cd data_eng_test```
 
 ### Step 2 ( optional )
