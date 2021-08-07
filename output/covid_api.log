@@ -1,0 +1,10 @@
+2021-08-07 13:31:21,758:DEBUG:Starting new HTTPS connection (1): covid-api.com:443
+2021-08-07 13:31:22,893:DEBUG:https://covid-api.com:443 "GET /api/reports?date=2021-08-01&iso=JPN HTTP/1.1" 200 None
+2021-08-07 13:31:22,893:DEBUG:inputs are 2021-08-01 ,JPN
+2021-08-07 13:31:22,893:DEBUG:extracted from api are confirmed:54380, deaths:1008,recovered:51143
+
+2021-08-07 13:31:22,893:DEBUG:Starting new HTTPS connection (1): covid-api.com:443
+2021-08-07 13:31:26,240:DEBUG:https://covid-api.com:443 "GET /api/reports?date=2021-08-03&iso=USA HTTP/1.1" 200 None
+2021-08-07 13:31:27,126:DEBUG:inputs are 2021-08-03 ,USA
+2021-08-07 13:31:27,151:DEBUG:extracted from api are confirmed:481357, deaths:6136,recovered:0
+
