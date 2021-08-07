@@ -1,10 +1,8 @@
 # Data Engineer Assignment
-### Step 0
-```mkdir assignment_andrew```
-```cd assignment_andrew```
 
 ### Step 1
-```git clone <repo-name>```
+```git clone https://github.com/andrewng88/data_eng_test.git```
+```cd data_eng_test```
 
 ### Step 2 ( optional )
 ```pip install pandas```
