@@ -1,12 +1,14 @@
 # Data Engineer Assignment
 
-### Step 1
+### Step 1 Create environment and install pandas library
+```conda create ---name assignment```
+
+```conda install pandas```
+
+### Step 2
 ```git clone https://github.com/andrewng88/data_eng_test.git```
 
 ```cd data_eng_test```
-
-### Step 2 ( optional )
-```pip install pandas```
 
 ### Step 3 ( To Run API extraction)
 ```python extract_api.py```
